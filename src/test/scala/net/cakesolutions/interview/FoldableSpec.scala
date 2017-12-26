@@ -2,6 +2,7 @@ package net.cakesolutions.interview
 
 import org.scalatest.{Matchers, WordSpec}
 import examples.MonoidExamples._
+import instances._
 
 /**
   * This test will run when you have a working foldable list
